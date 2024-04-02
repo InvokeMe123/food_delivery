@@ -1,0 +1,29 @@
+class AppImagesConst {
+  static const String logo = 'assets/logos/logo.png';
+  static const String discount_rafeeq = 'assets/images/discount_rafeeq.jpg';
+  static const String express_delivery = 'assets/images/express_delivery.png';
+  static const String rafeeq_market = 'assets/images/rafeeq_market.jpg';
+  static const restaurant = 'assets/images/restaurant.jpg';
+  static const grocery = 'assets/images/grocery.png';
+  static const bouquet = 'assets/images/bouquet.png';
+  static const market = 'assets/images/market.png';
+  static const medicine = 'assets/images/medicine.png';
+  static const burger = 'assets/images/burger.png';
+  static const stars = 'assets/images/stars.png';
+  static const cars = 'assets/images/car.png';
+  static const bag = 'assets/images/bag.png';
+  static const delivery = 'assets/images/delivery.png';
+  static const emptyBasket = 'assets/images/emptyBasket.png';
+  static const noorders = 'assets/images/noorders.png';
+  static const brand1 = 'assets/images/brand1.jpg';
+  static const brand2 = 'assets/images/brand2.png';
+  static const brand3 = 'assets/images/brand3.png';
+  static const brand4 = 'assets/images/brand4.png';
+  static const allvendor1 = 'assets/images/allvendor1.png';
+  static const verndordelivery = 'assets/images/vendorDelivery.png';
+  static const freedelivery = 'assets/images/freedelivery.png';
+  static const fire = 'assets/images/fire.png';
+  static const pin = 'assets/images/pin.png';
+  static const uae = 'assets/images/uae.png';
+  static const france = 'assets/images/france.png';
+}
